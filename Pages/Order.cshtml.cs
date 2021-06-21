@@ -46,7 +46,7 @@ namespace Snacks.Pages
                 
                 var message = new MailMessage();
                 message.To.Add(OrderEmail);
-                message.Subject = "Fourth Coffee - New Order";
+                message.Subject = "Snack O Mania - New Order";
                 message.Body = body;
                 message.IsBodyHtml = true;
                 message.From = new MailAddress("devedkaushik@gmail.com");
