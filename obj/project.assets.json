@@ -1081,11 +1081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\RazorPages\\Snacks\\Snacks.csproj",
+      "projectUniqueName": "D:\\dropbox\\Dropbox\\YouTube-Channel\\Projects_For_Videos\\Draft\\ASP.NET 5\\Snacks\\Snacks.csproj",
       "projectName": "Snacks",
-      "projectPath": "D:\\Projects\\RazorPages\\Snacks\\Snacks.csproj",
+      "projectPath": "D:\\dropbox\\Dropbox\\YouTube-Channel\\Projects_For_Videos\\Draft\\ASP.NET 5\\Snacks\\Snacks.csproj",
       "packagesPath": "C:\\Users\\kaushik\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\RazorPages\\Snacks\\obj\\",
+      "outputPath": "D:\\dropbox\\Dropbox\\YouTube-Channel\\Projects_For_Videos\\Draft\\ASP.NET 5\\Snacks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
