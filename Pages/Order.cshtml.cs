@@ -36,8 +36,8 @@ namespace Snacks.Pages
             {
                 var credential = new NetworkCredential
                 {
-                    UserName = "devedkaushik@gmail.com",  // replace with valid value
-                    Password = "KUU00738"  // replace with valid value    
+                    UserName = "example@gmail.com",  // replace with valid value
+                    Password = "password"  // replace with valid value    
                 };
                 smtp.Credentials = credential;
                 smtp.Host = "smtp.gmail.com";
