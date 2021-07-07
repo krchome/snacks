@@ -49,7 +49,7 @@ namespace Snacks.Pages
                 message.Subject = "Snack O Mania - New Order";
                 message.Body = body;
                 message.IsBodyHtml = true;
-                message.From = new MailAddress("devedkaushik@gmail.com");
+                message.From = new MailAddress("sales@snackomania.com");
                 await smtp.SendMailAsync(message);
             }
                 return RedirectToPage("OrderSuccess");
